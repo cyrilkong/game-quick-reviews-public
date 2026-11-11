@@ -14,4 +14,6 @@ Free, noncommercial, no account, ads or analytics. This extension is independent
 
 Support: cyril.kong@gmail.com
 
-Chrome Web Store status: Initial 1.0.0 listing is being prepared. The install link will be added once publication is confirmed.
+[安装 / Install from Chrome Web Store](https://chromewebstore.google.com/detail/game-quick-reviews/joagjecjfobliepjcfiegbhdiipgbjpb)
+
+Version 1.0.0 is published. 当前已上线 1.0.0。
